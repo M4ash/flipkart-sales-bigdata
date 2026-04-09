@@ -1,4 +1,4 @@
-# flipkart-sales-bigdata
+## Flipkart Sales Analysis
 
 ## Dataset
 Due to GitHub size limits, the Flipkart Sales dataset (>1GB) is hosted externally:
@@ -6,7 +6,7 @@ Due to GitHub size limits, the Flipkart Sales dataset (>1GB) is hosted externall
 
 This project explores large-scale sales data from Flipkart, focusing on extracting insights, benchmarking performance, and applying big data techniques for academic and practical use. The dataset exceeds 1 GB, so it is hosted externally (see Dataset section below).
 
-🔍 Objectives
+## 🔍 Objectives
 Analyze Flipkart’s sales trends using big data tools.
 
 Perform benchmarking and performance testing with Locust to evaluate system scalability.
@@ -15,7 +15,7 @@ Apply data cleaning, preprocessing, and visualization for meaningful insights.
 
 Ensure proper academic formatting and citation standards (APA7, BibTeX) for reproducibility.
 
-🛠️ Methodology
+## 🛠️ Methodology
 Data Handling: Preprocessing large datasets with Python and big data frameworks.
 
 Benchmarking: Locust-based performance analysis to simulate user traffic and measure system response.
@@ -25,7 +25,7 @@ Visualization: Graphs and diagrams to highlight sales trends, product categories
 Documentation: Structured reporting aligned with IEEE and thesis requirements.
 
 
-📑 Academic Context
+## 📑 Academic Context
 This repository supports:
 
 Master’s thesis defense preparation.
