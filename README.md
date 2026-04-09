@@ -24,6 +24,12 @@ Visualization: Graphs and diagrams to highlight sales trends, product categories
 
 Documentation: Structured reporting aligned with IEEE and thesis requirements.
 
+## Tools
+The tools, packages and the frameworks that I have used to accomplish this large sales data analysis is Spark. Spark has been used to compare the analysis results for the same case studies. 
+Using Spark framework, I have used jupyter notebook to execute the codes written in python programming language as well. 
+Moreover, HDFS, Hadoop Streaming, pySpark are some of the important modules and packages used for execution of the python programs 
+for my case studies.
+
 
 ## 📑 Academic Context
 This repository supports:
